@@ -1,0 +1,36 @@
+* {
+    font-family: 'sans-serif';
+    color: black;
+}
+
+#iconSection img {
+    height: 100%;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+#menu {
+    box-shadow: 1px 0px 9px 3px grey;
+    border: 2px;
+    border-radius: 10px;
+}
+
+#menu #op1 {
+    width: 80%;
+    border-bottom: 3px solid rgb(194, 188, 188);
+}
+
+#menu a:hover,
+#formDetails a:hover {
+    text-decoration: none;
+}
+
+#formDetails #op1 {
+    width: 80%;
+    border-bottom: 5px solid rgb(194, 188, 188);
+}
+
+#formDetails {
+    border-radius: 40px;
+    border: 2px solid black;
+}
